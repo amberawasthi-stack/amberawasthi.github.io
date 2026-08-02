@@ -51,6 +51,9 @@ A command-line Python application demonstrating:
 - Input validation
 - Clean and modular code
 
+**Repository:**
+https://github.com/amberawasthi-stack/dice_rolling_game_python
+
 ---
 
 ## 🛠 Technical Skills
