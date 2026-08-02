@@ -37,6 +37,10 @@ I enjoy solving business problems using data and continuously work on improving 
 - Created executive-level business insights.
 - Used Microsoft Excel for statistical analysis.
 
+<img src="dashboard.png.png"
+alt="Deloitte Analytics Dashboard"
+width="600">
+
 **Repository:**
 https://github.com/amberawasthi-stack
 
