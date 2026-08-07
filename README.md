@@ -59,7 +59,7 @@ https://github.com/amberawasthi-stack
 
 ![Chat Page](https://github.com/amberawasthi-stack/amberawasthi.github.io/blob/main/Chat%20page.png?raw=true)
 
-![Chat Page 2](images/Chat%20page(2).png)
+![Chat Page 2](https://github.com/amberawasthi-stack/amberawasthi.github.io/blob/main/chat%20page%20(2).png?raw=true)
 
 **Tech Stack:** HTML • CSS • JavaScript • Botpress Cloud • GitHub Pages
 
