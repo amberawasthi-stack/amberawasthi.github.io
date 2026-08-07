@@ -57,7 +57,7 @@ https://github.com/amberawasthi-stack
 
 ## 📸 Project Preview
 
-![Chat Page](images/Chat%20page.png)
+![Chat Page](https://github.com/amberawasthi-stack/amberawasthi.github.io/blob/main/Chat%20page.png?raw=true)
 
 ![Chat Page 2](images/Chat%20page(2).png)
 
