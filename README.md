@@ -54,6 +54,12 @@ https://github.com/amberawasthi-stack
 - Successfully deployed the application on GitHub Pages for seamless public accessibility.
 - Showcases expertise in chatbot development, web technologies, and cloud-based deployment.
 
+## 📸 Project Preview
+
+![Chat Page](images/Chat%20page.png)
+
+![Chat Page 2](images/Chat%20page(2).png)
+
 **Tech Stack:** HTML • CSS • JavaScript • Botpress Cloud • GitHub Pages
 
 🌐 **Live Demo:** https://amberawasthi-stack.github.io/Perceptron-AI/
