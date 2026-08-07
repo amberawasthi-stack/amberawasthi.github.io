@@ -46,6 +46,22 @@ https://github.com/amberawasthi-stack
 
 ---
 
+## 🤖 Perceptron AI
+
+- Designed and developed an AI-powered chatbot web application from scratch.
+- Integrated Botpress Cloud to provide intelligent, real-time conversational responses.
+- Created a responsive and modern interface using HTML, CSS, and JavaScript.
+- Successfully deployed the application on GitHub Pages for seamless public accessibility.
+- Showcases expertise in chatbot development, web technologies, and cloud-based deployment.
+
+**Tech Stack:** HTML • CSS • JavaScript • Botpress Cloud • GitHub Pages
+
+🌐 **Live Demo:** https://amberawasthi-stack.github.io/Perceptron-AI/
+
+📂 **GitHub Repository:** https://github.com/amberawasthi-stack/Perceptron-AI
+
+---
+
 ### 🎲 Dice Rolling Game (Python)
 
 A command-line Python application demonstrating:
